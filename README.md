@@ -8,7 +8,7 @@ Desenvolvedor Back-End Júnior com experiência em Python, Golang, JavaScript e 
 
 * 🌍  Estou localizado em São Paulo
 * ✉️  Você pode entrar em contato comigo em [bruno.ss318@gmail.com](mailto:bruno.ss318@gmail.com)
-* 🧠  Estou aprendendo Gin (Golang)
+* 🧠  Estou aprendendo n8n
 
 ### Habilidades
 

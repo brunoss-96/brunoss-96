@@ -1,10 +1,9 @@
 Olá ! Meu nome é Bruno Silva
 ===================================================================================================================================
 
-Desenvolvedor Back-End
-----------------------
+Desenvolvedor Back-End | Analista de Dados
 
-Desenvolvedor Back-End Júnior com experiência em Python, Golang, JavaScript e Java. Conhecimentos em ETL, bancos de dados e soluções em nuvem. Busco aplicar minhas habilidades em soluções escaláveis e eficientes.
+Experiência com Python, Golang, JavaScript e Java. Desenvolvo pipelines ETL, automações e integrações com bancos SQL (PostgreSQL, MySQL) e NoSQL (MongoDB, TinyDB). Trabalho com análise de dados, manipulação e visualização, usando Power BI. Busco oportunidades para aplicar e expandir conhecimentos em desenvolvimento e análise de dados.
 
 * 🌍  Estou localizado em São Paulo
 * ✉️  Você pode entrar em contato comigo em [bruno.ss318@gmail.com](mailto:bruno.ss318@gmail.com)
